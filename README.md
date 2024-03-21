@@ -7,6 +7,9 @@
 
 <table align="center">
 <tbody>
-
+<tr>
+   <td>
+    <a href="https://github.com/matejhampl/STIN_projekt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matejhampl&repo=STIN-projekt&theme=github_dark&cache_seconds=86400" alt="STIN_projekt"/></a>
+  </td>
 </tbody>
 </table>
