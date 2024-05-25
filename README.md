@@ -15,7 +15,7 @@
             <a href="https://github.com/matejhampl/CTC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matejhampl&repo=CTC&theme=github_dark&cache_seconds=86400" alt="CTC"/></a>
         </td>
         <td>
-            <a href="https://github.com/Bahamut731lp/PG2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=matejhampl&repo=PG2C&theme=github_dark&cache_seconds=86400" alt="PG2"/></a>
+            <a href="https://github.com/Bahamut731lp/PG2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bahamut731lp&repo=PG2C&theme=github_dark&cache_seconds=86400" alt="PG2"/></a>
         </td>
     </tr>
 </tbody>
